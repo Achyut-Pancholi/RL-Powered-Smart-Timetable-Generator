@@ -1,5 +1,9 @@
 # RL-Powered-Smart-Timetable-Generator
 
+## Access Project Link
+https://rl-time-table-generator-44.streamlit.app/
+
+---
 ## 📚 Project Overview
 
 An **intelligent university timetable scheduler** powered by **Deep Reinforcement Learning (PPO)** that automatically assigns courses to time slots and rooms while satisfying hard constraints like instructor availability and room capacity.
